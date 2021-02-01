@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khishore</h1>
 <h3 align="center">Self-motivating person with great listening and understanding skills.</h3>
 
-- 🔭 I’m currently working **towards Master Degree**
+- 🔭 I’m currently working **towards Master's Degree**
 
 - 💬 Ask me about **Python,DBMS,Data Science**
 
-- 📫 How to reach me **vskhishore@gmail.com**
+- 📫 How to reach me mail =>**vskhishore@gmail.com**
+
+- ⚡ Fun fact **Some of the Biggest Computer Brands Started in Garages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
